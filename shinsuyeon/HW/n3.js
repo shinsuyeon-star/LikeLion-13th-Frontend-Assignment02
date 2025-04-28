@@ -15,15 +15,15 @@ function solution(n) {
     }
 }
 
-solution(13);
-solution(24);
-solution(48);
-solution(62);
-solution(73);
-solution(33);
-solution(83);
-solution(93);
-solution(70);
-solution(80);
-solution(90);
-solution(100);
+console.log(solution(13));
+console.log(solution(24));
+console.log(solution(48));
+console.log(solution(62));
+console.log(solution(73));
+console.log(solution(33));
+console.log(solution(83));
+console.log(solution(93));
+console.log(solution(70));
+console.log(solution(80));
+console.log(solution(90));
+console.log(solution(100));
