@@ -27,15 +27,15 @@ function solution(a, b) {
         }
     
         // solution 함수는 매개변수를 2개 받아 4개의 사칙연산 함수를 각각 호출하여 결과를 return 한다.
-        const add = add(a, b);
-        const sub = sub(a, b);
-        const mul= mul(a, b);
-        const div = div(a, b);
+        const addadd = add(a, b);
+        const subsub = sub(a, b);
+        const mulmul= mul(a, b);
+        const divdiv = div(a, b);
     
     //return 된 값을 콘솔에 출력해라.
-        console.log("Add: " + add);
-        console.log("Sub: " + sub);
-        console.log("Mul: " + mul);
-        console.log("Div: " + div);
+        console.log("Add: " + addadd);
+        console.log("Sub: " + subsub);
+        console.log("Mul: " + mulmul);
+        console.log("Div: " + divdiv);
     }
     solution(1,2);
